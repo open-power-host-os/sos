@@ -109,7 +109,7 @@ def is_executable(command):
     return any(os.access(path, os.X_OK) for path in candidates)
 
 
-def sos_get_command_output(command, timeout=300, stderr=False,
+def sos_get_command_output(command, timeout=180, stderr=False,
                            chroot=None, chdir=None):
     """Execute a command and return a dictionary of status and output,
     optionally changing root or current working directory before
