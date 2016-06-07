@@ -185,8 +185,8 @@ msgid "Cannot upload to specified URL."
 msgstr "Não foi possível submeter para o URL especificado."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "Ocorreu um erro ao submeter o seu relatório para o suporte Red Hat."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "Ocorreu um erro ao submeter o seu relatório para o suporte IBM."
 
 #: ../sos/policyredhat.py:401
 #, python-format

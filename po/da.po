@@ -184,9 +184,9 @@ msgid "Cannot upload to specified URL."
 msgstr "Kan ikke overføre til den angivne URL."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
+msgid "There was a problem uploading your report to IBM support."
 msgstr ""
-"Der opstod et problem under overførsel af din rapport til Red Hat-support."
+"Der opstod et problem under overførsel af din rapport til IBM-support."
 
 #: ../sos/policyredhat.py:401
 #, python-format

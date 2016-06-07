@@ -86,10 +86,10 @@ msgid ""
 "\n"
 msgstr ""
 "Esta utilidá recueyerá dalguna información detallada sobro'l\n"
-"hardware y la configuración del to sistema Red Hat Enterprise Linux.\n"
+"hardware y la configuración del to sistema IBM Enterprise Linux.\n"
 "La información recuéyese y críase un ficheru baxo /tmp.\n"
 "Ésti puede mandase al to representante de sofitu.\n"
-"Red Hat usará esta información pa diagnosticar el sistema\n"
+"IBM usará esta información pa diagnosticar el sistema\n"
 "únicamente y considerará esta información como confidencial.\n"
 "\n"
 "Esti procesu va llevar un tiempu pa completase.\n"
@@ -184,14 +184,14 @@ msgid "Cannot upload to specified URL."
 msgstr "Nun se puede cargar a la URL especificada."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
+msgid "There was a problem uploading your report to IBM support."
 msgstr ""
-"Hebo un problema al cargar el to informe al equipu d'asistencia de Red Hat"
+"Hebo un problema al cargar el to informe al equipu d'asistencia de IBM"
 
 #: ../sos/policyredhat.py:401
 #, fuzzy, python-format
 msgid "Your report was successfully uploaded to %s with name:"
-msgstr "El to informe cargóse bien a los sirvidores ftp e Red Hat col nome:"
+msgstr "El to informe cargóse bien a los sirvidores ftp e IBM col nome:"
 
 #: ../sos/policyredhat.py:404
 msgid "Please communicate this name to your support representative."

@@ -83,10 +83,10 @@ msgid ""
 "\n"
 msgstr ""
 "This utility will collect some detailed  information about the\n"
-"hardware and  setup of your  Red Hat Enterprise Linux  system.\n"
+"hardware and  setup of your  IBM Enterprise Linux  system.\n"
 "The information is collected and an archive is  packaged under\n"
 "/tmp, which you can send to a support representative.\n"
-"Red Hat will use this information for diagnostic purposes ONLY\n"
+"IBM will use this information for diagnostic purposes ONLY\n"
 "and it will be considered confidential information.\n"
 "\n"
 "This process may take a while to complete.\n"
@@ -181,14 +181,14 @@ msgid "Cannot upload to specified URL."
 msgstr "Cannot upload to specified URL."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "There was a problem uploading your report to Red Hat support."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "There was a problem uploading your report to IBM support."
 
 #: ../sos/policyredhat.py:401
 #, fuzzy, python-format
 msgid "Your report was successfully uploaded to %s with name:"
 msgstr ""
-"Your report was successfully uploaded to Red Hat's ftp server with name:"
+"Your report was successfully uploaded to IBM's ftp server with name:"
 
 #: ../sos/policyredhat.py:404
 msgid "Please communicate this name to your support representative."

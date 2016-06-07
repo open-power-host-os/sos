@@ -84,9 +84,9 @@ msgid ""
 "\n"
 msgstr ""
 "เครื่องมือนี้จะเก็บข้อมูลโดยละเอียดเกี่ยวกับฮาร์ดแวร์และการตั้งค่า\n"
-"ระบบ Red Hat Enterprise Linux ของคุณ ข้อมูลจะถูกเก็บและ\n"
+"ระบบ IBM Enterprise Linux ของคุณ ข้อมูลจะถูกเก็บและ\n"
 "สร้างเป็นไฟล์ที่ /tmp ซึ่งคุณสามารถส่งไปยังผู้สนับสนุนได้\n"
-"Red Hat จะใช้ข้อมูลนี้ในการแก้ไขปัญหาเท่านั้น และจะถือว่าเป็น\n"
+"IBM จะใช้ข้อมูลนี้ในการแก้ไขปัญหาเท่านั้น และจะถือว่าเป็น\n"
 "ความลับ\n"
 "\n"
 "กระบวนการนี้อาจจะใช้เวลาสักครู่ในการทำงาน จะไม่มีการแก้ไข\n"
@@ -180,13 +180,13 @@ msgid "Cannot upload to specified URL."
 msgstr "ไม่สามารถอัพโหลดไปยัง URL ที่ระบุ"
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "มีปัญหาในการอัพโหลดรายงานของคุณไปยังฝ่ายสนับสนุน Red Hat"
+msgid "There was a problem uploading your report to IBM support."
+msgstr "มีปัญหาในการอัพโหลดรายงานของคุณไปยังฝ่ายสนับสนุน IBM"
 
 #: ../sos/policyredhat.py:401
 #, fuzzy, python-format
 msgid "Your report was successfully uploaded to %s with name:"
-msgstr "รายงานของคุณได้ถูกส่งไปยังเซิร์ฟเวอร์ ftp ของ Red Hat ในชื่อ:"
+msgstr "รายงานของคุณได้ถูกส่งไปยังเซิร์ฟเวอร์ ftp ของ IBM ในชื่อ:"
 
 #: ../sos/policyredhat.py:404
 msgid "Please communicate this name to your support representative."

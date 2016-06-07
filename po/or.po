@@ -188,8 +188,8 @@ msgid "Cannot upload to specified URL."
 msgstr "ଉଲ୍ଲିଖିତ URL କୁ ଧାରଣ କରିପାରିବେ ନାହିଁ।"
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "Red Hat ସହାୟତାରେ ଆପଣଙ୍କର ବିବରଣୀକୁ ଧାରଣ କରିବାରେ ସମସ୍ୟା ଦୋଇଥିଲା।"
+msgid "There was a problem uploading your report to IBM support."
+msgstr "IBM ସହାୟତାରେ ଆପଣଙ୍କର ବିବରଣୀକୁ ଧାରଣ କରିବାରେ ସମସ୍ୟା ଦୋଇଥିଲା।"
 
 #: ../sos/policyredhat.py:401
 #, python-format

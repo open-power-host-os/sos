@@ -85,11 +85,11 @@ msgid ""
 "No changes will be made to your system.\n"
 "\n"
 msgstr ""
-"මෙම උපයෝගි තාවය දෘඩාංග පිළිබදව සවිස්තරාත්මක තොරතුරු රැස්කරණ අතර ඔබගේ  Red Hat "
+"මෙම උපයෝගි තාවය දෘඩාංග පිළිබදව සවිස්තරාත්මක තොරතුරු රැස්කරණ අතර ඔබගේ  IBM "
 "Enterprise Linux  පද්ධතිය පිහිටවනු ලැබේ.\n"
 "රැස් කළ තොරතුරු සහ සංරක්‍ෂකය /tmp යටතේ ඇසුරුම් ගත කර ඇති අතර ඔබට එය සහායක නියෝජිත වෙත "
 "යැවිය හැක.\n"
-"Red Hat මෙම තොරතුරු  භාවිතා කරන්නේ දෝෂ විනිශ්චය පමණක් වන අතර එම තොරතුරු රහසිගත තොරතුරු "
+"IBM මෙම තොරතුරු  භාවිතා කරන්නේ දෝෂ විනිශ්චය පමණක් වන අතර එම තොරතුරු රහසිගත තොරතුරු "
 "ලෙස සළකණු ලබයි.\n"
 "\n"
 "මෙම ක්‍රියාව නිම වීමට වේලාවක් ගතවනු ඇත.\n"
@@ -184,13 +184,13 @@ msgid "Cannot upload to specified URL."
 msgstr "දක්වන ලඳ URL වෙත ලබා දිය නොහැක."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "ඔබගේ වාර්තාව Red Hat සහය වෙතට ලබා දිමේදි දෝෂයල් ඇති විය."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "ඔබගේ වාර්තාව IBM සහය වෙතට ලබා දිමේදි දෝෂයල් ඇති විය."
 
 #: ../sos/policyredhat.py:401
 #, fuzzy, python-format
 msgid "Your report was successfully uploaded to %s with name:"
-msgstr "ඔබගේ වාර්තාව සාර්තකව Red Hat's ftp සේවාදායකයට ලබාදුන් අතර නම වූයේ:"
+msgstr "ඔබගේ වාර්තාව සාර්තකව IBM's ftp සේවාදායකයට ලබාදුන් අතර නම වූයේ:"
 
 #: ../sos/policyredhat.py:404
 msgid "Please communicate this name to your support representative."

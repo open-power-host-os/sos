@@ -54,7 +54,7 @@ class CertificateSystem(Plugin, RedHatPlugin):
     def setup(self):
         csversion = self.checkversion()
         if not csversion:
-            self.add_alert("Red Hat Certificate System not found.")
+            self.add_alert("Certificate System not found.")
             return
         if csversion == 71:
             self.add_copy_spec([

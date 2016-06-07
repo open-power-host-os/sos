@@ -191,8 +191,8 @@ msgid "Cannot upload to specified URL."
 msgstr "Hochladen zu spezieller URL scheiterte."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "Beim Hochladen Ihres Berichts zum Red Hat Support trat ein Fehler auf."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "Beim Hochladen Ihres Berichts zum IBM Support trat ein Fehler auf."
 
 #: ../sos/policyredhat.py:401
 #, python-format

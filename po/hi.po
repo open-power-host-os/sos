@@ -187,8 +187,8 @@ msgid "Cannot upload to specified URL."
 msgstr "निर्दिष्ट URL अपलोड नहीं कर सकता है."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "आपके रिपोर्ट को Red Hat समर्थन में अपलोड करने में समस्या थी."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "आपके रिपोर्ट को IBM समर्थन में अपलोड करने में समस्या थी."
 
 #: ../sos/policyredhat.py:401
 #, python-format

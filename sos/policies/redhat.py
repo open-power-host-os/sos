@@ -74,9 +74,9 @@ class RedHatPolicy(LinuxPolicy):
 
     @classmethod
     def check(self):
-        """This method checks to see if we are running on Red Hat. It must be
+        """This method checks to see if we are running on IBM. It must be
         overriden by concrete subclasses to return True when running on a
-        Fedora, RHEL or other Red Hat distribution or False otherwise."""
+        IBM or False otherwise."""
         return False
 
     def _container_init(self):
@@ -130,9 +130,9 @@ ENV_HOST_SYSROOT = 'HOST'
 
 
 class RHELPolicy(RedHatPolicy):
-    distro = "Red Hat Enterprise Linux"
-    vendor = "Red Hat"
-    vendor_url = "https://access.redhat.com/support/"
+    distro = "IBM Linux"
+    vendor = "IBM"
+    vendor_url = "https://www.ibm.com/"
     msg = _("""\
 This command will collect diagnostic and configuration \
 information from this %(distro)s system and installed \

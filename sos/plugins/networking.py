@@ -307,7 +307,7 @@ class Networking(Plugin):
 
 
 class RedHatNetworking(Networking, RedHatPlugin):
-    trace_host = "rhn.redhat.com"
+    trace_host = "www.ibm.com"
 
     def setup(self):
         # Handle change from -T to -W in Red Hat netstat 2.0 and greater.

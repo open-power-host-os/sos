@@ -184,7 +184,7 @@ msgid "Cannot upload to specified URL."
 msgstr "无法上传到指定的网址。"
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
+msgid "There was a problem uploading your report to IBM support."
 msgstr "在将您的报告上传到红帽支持时出错。"
 
 #: ../sos/policyredhat.py:401

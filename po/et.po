@@ -169,7 +169,7 @@ msgid "Cannot upload to specified URL."
 msgstr ""
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
+msgid "There was a problem uploading your report to IBM support."
 msgstr ""
 
 #: ../sos/policyredhat.py:401

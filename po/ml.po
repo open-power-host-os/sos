@@ -183,8 +183,8 @@ msgid "Cannot upload to specified URL."
 msgstr "നല്‍കിയിരിക്കുന്ന URL-ലേക്ക് ഫയല്‍ അപ്ലോഡ് ചെയ്യുവാന്‍ സാധ്യമായില്ല "
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "Red Hat-ലേക്ക് നിങ്ങളുടെ റിപ്പോറ്‍ട്ട് അയയ്ക്കുന്നതില്‍ ഏതോ പ്റശ്നം ഉണ്ടായിരിക്കുന്നു."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "IBM-ലേക്ക് നിങ്ങളുടെ റിപ്പോറ്‍ട്ട് അയയ്ക്കുന്നതില്‍ ഏതോ പ്റശ്നം ഉണ്ടായിരിക്കുന്നു."
 
 #: ../sos/policyredhat.py:401
 #, python-format

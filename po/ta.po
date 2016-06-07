@@ -188,8 +188,8 @@ msgid "Cannot upload to specified URL."
 msgstr "குறிப்பிட்ட இணைய முகவரியில் ஏற்ற முடியவில்லை."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "உங்கள் அறிக்கையை Red Hat சேவைக்கு அனுப்புவதில் சிக்கல்."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "உங்கள் அறிக்கையை IBM சேவைக்கு அனுப்புவதில் சிக்கல்."
 
 #: ../sos/policyredhat.py:401
 #, python-format

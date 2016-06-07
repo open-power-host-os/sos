@@ -84,10 +84,10 @@ msgid ""
 "\n"
 msgstr ""
 "Αυτό το εργαλείο θα συγκετρώσει ορισμένες πληροφορίες για τον υπολογιστή σας "
-"και την εγκατάσταση του Red Hat Enterprise Linux συστήματος.\n"
+"και την εγκατάσταση του IBM Enterprise Linux συστήματος.\n"
 "Οι πληροφορίες συγκετρώνονται και το archive δημιουργήται στο\n"
 "/tmp,το οποίο και μπορείτε να στείλετε σε έναν αντιπρόσωπο υποστήριξης.\n"
-"Η Red Hat θα χρησιμοποιήσει αυτα τα δεδομένα ΜΟΝΟ για διαγνωστικούς σκοπούς\n"
+"Η IBM θα χρησιμοποιήσει αυτα τα δεδομένα ΜΟΝΟ για διαγνωστικούς σκοπούς\n"
 "και θα παραμείνουν εμπιστευτηκά.\n"
 "\n"
 
@@ -180,8 +180,8 @@ msgid "Cannot upload to specified URL."
 msgstr "Δεν είναι δυνατό το upload στο καθορισμένο URL."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "Υπήρξε ένα πρόβλημα κατα το upload της αναφοράς σας στην Red Hat."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "Υπήρξε ένα πρόβλημα κατα το upload της αναφοράς σας στην IBM."
 
 #: ../sos/policyredhat.py:401
 #, python-format

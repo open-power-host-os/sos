@@ -180,8 +180,8 @@ msgid "Cannot upload to specified URL."
 msgstr "Nem lehet az URL-re feltölteni."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "A jelentést a Red Hat támogatáshoz feltöltvén baj történt."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "A jelentést a IBM támogatáshoz feltöltvén baj történt."
 
 #: ../sos/policyredhat.py:401
 #, python-format

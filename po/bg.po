@@ -172,9 +172,9 @@ msgid "Cannot upload to specified URL."
 msgstr "Не може да се качи на посочения URL"
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
+msgid "There was a problem uploading your report to IBM support."
 msgstr ""
-"Възникна проблем при качването на вашия отчет на проддръжката на Red Hat."
+"Възникна проблем при качването на вашия отчет на проддръжката на IBM."
 
 #: ../sos/policyredhat.py:401
 #, python-format

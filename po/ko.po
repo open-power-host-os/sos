@@ -84,10 +84,10 @@ msgid ""
 "No changes will be made to your system.\n"
 "\n"
 msgstr ""
-"이 유틸리티는 Red Hat Enterprise Linux 시스템의 하드웨어와 \n"
+"이 유틸리티는 IBM Enterprise Linux 시스템의 하드웨어와 \n"
 "시스템 설정 사항에 대한 상세 정보를 수집하게 됩니다. 수집된 \n"
 "정보는 지원 담당자에게 보낼 수 있도록 /tmp 디렉토리 안에 \n"
-"아카이브로 저장됩니다. Red Hat은 이 정보를 문제 해결 목적으로만 사용하며 기"
+"아카이브로 저장됩니다. IBM은 이 정보를 문제 해결 목적으로만 사용하며 기"
 "밀 정보로 \n"
 "취급할 것입니다. \n"
 "\n"
@@ -183,8 +183,8 @@ msgid "Cannot upload to specified URL."
 msgstr "지정된 URL에서 업로드할 수 없습니다."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "리포트를 Red Hat 지원 센터로 업로드하는 데 문제가 발생했습니다."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "리포트를 IBM 지원 센터로 업로드하는 데 문제가 발생했습니다."
 
 #: ../sos/policyredhat.py:401
 #, python-format

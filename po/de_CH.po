@@ -87,10 +87,10 @@ msgid ""
 "\n"
 msgstr ""
 "Dieses Dienstprogramm sammelt einige detaillierte Informationen\n"
-"zur Hardware und Einrichtung Ihres Red Hat Enterprise Linux Systems.\n"
+"zur Hardware und Einrichtung Ihres IBM Enterprise Linux Systems.\n"
 "Die Informationen werden gesammelt und in einem Archiv unter /tmp\n"
 "zusammengefasst, welches Sie an einen Support-Vertreter schicken\n"
-"können. Red Hat verwendet diese Informationen AUSSCHLIESSLICH zu\n"
+"können. IBM verwendet diese Informationen AUSSCHLIESSLICH zu\n"
 "Diagnosezwecken und behandelt sie als vertrauliche Informationen.\n"
 "\n"
 "Die Fertigstellung dieses Prozesses kann eine Weile dauern.\n"
@@ -188,14 +188,14 @@ msgid "Cannot upload to specified URL."
 msgstr "Hochladen zu speziellem URL scheiterte."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "Beim Hochladen Ihres Berichts zum Red Hat Support trat ein Fehler auf."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "Beim Hochladen Ihres Berichts zum IBM Support trat ein Fehler auf."
 
 #: ../sos/policyredhat.py:401
 #, fuzzy, python-format
 msgid "Your report was successfully uploaded to %s with name:"
 msgstr ""
-"Ihr Bericht wurde erfolgreich auf den Red Hat FTP-Server hochgeladen, mit "
+"Ihr Bericht wurde erfolgreich auf den IBM FTP-Server hochgeladen, mit "
 "dem Namen:"
 
 #: ../sos/policyredhat.py:404

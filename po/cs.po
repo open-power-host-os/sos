@@ -183,8 +183,8 @@ msgid "Cannot upload to specified URL."
 msgstr "Nelze uložit na uvedené URL."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "Při odesílání zprávy do firmy Red Hat vznikla chyba."
+msgid "There was a problem uploading your report to IBM support."
+msgstr "Při odesílání zprávy do firmy IBM vznikla chyba."
 
 #: ../sos/policyredhat.py:401
 #, python-format

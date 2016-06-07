@@ -188,10 +188,10 @@ msgid "Cannot upload to specified URL."
 msgstr "Impossible de le télécharger vers l'URL spécifié."
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
+msgid "There was a problem uploading your report to IBM support."
 msgstr ""
 "Une erreur s'est produite lors du téléchargement de votre rapport vers le "
-"support Red Hat."
+"support IBM."
 
 #: ../sos/policyredhat.py:401
 #, python-format

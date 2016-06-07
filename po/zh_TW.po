@@ -180,8 +180,8 @@ msgid "Cannot upload to specified URL."
 msgstr "無法上傳指定的網址。"
 
 #: ../sos/policyredhat.py:399
-msgid "There was a problem uploading your report to Red Hat support."
-msgstr "將報告上傳至 Red Hat 技術支援時，出現問題。"
+msgid "There was a problem uploading your report to IBM support."
+msgstr "將報告上傳至 IBM 技術支援時，出現問題。"
 
 #: ../sos/policyredhat.py:401
 #, python-format
